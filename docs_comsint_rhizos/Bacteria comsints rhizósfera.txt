@@ -1,0 +1,27 @@
+Bacteria comsints rhizósfera
+
+ST00042: Leifsonia sp.	*Pseudomonas
+ST00046: Bacillus sp. 
+ST00060: Arthrobacter sp. 
+ST00094: Rhodococcus erythropolis
+ST00101: Pseudomonas sp.
+ST00109: Mycobacterium sp.
+ST00110: Variovorax paradoxus 
+ST00143: Paenibacillus sp.
+ST00154: Agrobacterium sp.
+ST00164: Rhizobium sp.	*Bacillus
+
+Nota: lo que hay en comsints (*) es diferente a lo que debería haber:(
+
+
+
+
+
+
+
+
+
+
+
+
+
