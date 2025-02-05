@@ -11,6 +11,7 @@ preparación files
 	sample-id       forward-absolute-filepath       reverse-absolute-filepath
 	N500001A        /mnt/atgc-d3/sur/users/nsaid/2024-06.novogene_16S_NS1_NS2/Batch_1/result_X202SC23054171-Z01-F001/01.RawData/N500001A/N500001A.raw_1.fastq       /mnt/atgc-	d3/sur/users/nsaid/2024-06.novogene_16S_NS1_NS2/Batch_1/result_X202SC23054171-Z01-F001/01.RawData/N500001A/N500001A.raw_2.fastq
 	N500002A        /mnt/atgc-d3/sur/users/nsaid/2024-06.novogene_16S_NS1_NS2/Batch_1/result_X202SC23054171-Z01-F001/01.RawData/N500002A/N500002A.raw_1.fastq       /mnt/atgc-	d3/sur/users/nsaid/2024-06.novogene_16S_NS1_NS2/Batch_1/result_X202SC23054171-Z01-F001/01.RawData/N500002A/N500002A.raw_2.fastq
+	
 	con echo echo -e "sample-id\tforward-absolute-filepath\treverse-absolute-filepath" > manifest_batch2.tsv gyardar como tsv y cada renglón es una muestra diferente 
 
 referencias secuencidas con sanger 
