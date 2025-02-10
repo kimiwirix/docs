@@ -37,6 +37,8 @@ Dividir excel freq table en matched y unmatched
 3. R programa matrices_open_reference.R parte 3 para calcular mahattan distance entre unmatched y cada vector de cepa en NS syncoms, solo selecciona los que sean idénticos 
 CONTROL: checar taxonomias en ncbi de ref vs matched manhattan
 
+	Outputs: total abundance table ya con las abundancias totales finales ya para hacer gráficas
+
 
 
 Árbol
